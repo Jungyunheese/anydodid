@@ -1,0 +1,45 @@
+# Site settings
+title: 동동거림
+tagline:"Do new things, Think NEW"
+description: "새로운 시도를 해보고 새로운 생각을 하자"
+url: "http://anydodid.com"
+author:
+  name: "정윤희"
+  email: "fittyou09@gmail.com"
+  url: "http://anydodid.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source:
+destination:
+permalink: /:title
+paginate: 8
+paginate_path:
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: anydodid
