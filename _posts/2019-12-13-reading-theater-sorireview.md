@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "소리"는 헷갈렸지만, "소리"의 관객들은 헷갈리지 않았으면...
+title: ""소리"는 헷갈렸지만, "소리"의 관객들은 헷갈리지 않았으면..."
 date: 2019-12-13 20:30:00 +09:00
 author: "DongDong"
 permalink: /reading-theater-sori/
