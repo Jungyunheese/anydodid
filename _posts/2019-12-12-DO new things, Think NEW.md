@@ -5,7 +5,7 @@ date: 2019-12-12 15:10:00 +09:00
 author: "DongDong"
 permalink: /do-new-things-think-new/
 image:
-  feature: thumb1.jpg
+  feature: intro.png
 categories:
   - intro
 tags:
