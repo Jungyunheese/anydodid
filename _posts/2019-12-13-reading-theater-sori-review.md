@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading-theater 'sori' review
+title: "Reading-theater 'sori' review"
 date: 2019-12-13 23:10:00 +09:00
 author: "DongDong"
 permalink: /reading-theater-sori-review/
