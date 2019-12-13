@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ""소리"는 헷갈렸지만, "소리"의 관객들은 헷갈리지 않았으면..."
+title: '소리'는 헷갈렸지만'소리'의 관객들은 헷갈리지 않았으면...
 date: 2019-12-13 20:30:00 +09:00
 author: "DongDong"
 permalink: /reading-theater-sori/
 image:
-  feature: sori1.jpg
+  feature: sori.jpg
 categories:
   - 연극
   - 리딩극
@@ -32,8 +32,6 @@ description: 리딩공연 '소리'리뷰
 
 이 극은 굉장히 현실적인 주제여서 듣기 싫어지는 내용인 동시에,  내게도 동일한 감정을 느껴지게 했다는 것이 정말 대단하다. 러닝타임 내내 한순간도 다른 생각이 든적이 없다. 긴장감, 무서움, 따스함, 포근함 등이 극에 몰입하는 모든 순간들이 다 느껴져서 연극으로 정식으로 나오면 다시 보고싶다  꼭 제작되길 간절히 빈다.
 
+![표](C:\Users\fitty\blog\img\post\01\표.jpg)ㄴ
 
-
-![관람인증](C:\Users\fitty\blog\img\post\01\sori2.jpg)
-
-![배우분들](C:\Users\fitty\blog\img\post\01\sori3.jpg)
+![배우들](C:\Users\fitty\blog\img\post\01\배우들.jpg)
