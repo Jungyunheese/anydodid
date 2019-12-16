@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Reading-theater 'sori' review"
-date: 2019-12-13 23:10:00 +09:00
+date: 2019-12-16 23:10:00 +09:00
 author: "DongDong"
 permalink: /reading-theater-sori-review/
 image:
   feature: sori.jpg
 categories:
-  - 리딩공연
-  - 연극
+  - culture
+  - 
 tags:
   - 현대차그룹 대학 연극,뮤지컬 패스티벌
   - H-씨어터 연극
@@ -36,3 +36,4 @@ description: ‘소리’의 "헷갈린다" 라는 말은 잊을 수 없었다.
 ![표](..\img\post\01\표.jpg)
 
 ![배우들](..\img\post\01\배우들.jpg)
+
