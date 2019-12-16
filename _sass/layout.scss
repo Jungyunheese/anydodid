@@ -13,12 +13,12 @@ html, body {
     color:#d14;
     padding: 0.33334em 0;
     font-size: 1.5em;
-    font-weight: 400;
+    font-weight: bold;
     @media (min-width: 940px) {
       font-size: 1em;
     }
     &:hover {
-      background-color: lighten($main-color, 5%);
+      background-color: lightenw($main-color, 5%);
     }
   }
   span {
