@@ -7,11 +7,11 @@ permalink: //
 image:
   feature: 
 categories:
-  - occupation theraphy
+  - occupation therapy
   - 
 tags:
   - 
   - 
-description: ‘소리’의 "헷갈린다" 라는 말은 잊을 수 없었다.
+description: 
 ---
 

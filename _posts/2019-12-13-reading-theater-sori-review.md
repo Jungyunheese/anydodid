@@ -8,7 +8,6 @@ image:
   feature: sori.jpg
 categories:
   - culture
-  - 
 tags:
   - 현대차그룹 대학 연극,뮤지컬 패스티벌
   - H-씨어터 연극
