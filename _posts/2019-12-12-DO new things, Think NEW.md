@@ -2,7 +2,7 @@
 layout: post
 title: "DO new things, Think NEW"
 date: 2019-12-16 19:10:00 +09:00
-author: "DongDong"
+author: "Y"
 permalink: /do-new-things-think-new/
 image:
   feature: intro.jpg
