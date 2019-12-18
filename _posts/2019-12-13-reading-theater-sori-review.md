@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading-theater 'sori' review"
-date: 2019-12-16 23:10:00 +09:00
+date: 2019-12-12 23:10:00 +09:00
 author: "Y"
 permalink: /reading-theater-sori-review/
 image:

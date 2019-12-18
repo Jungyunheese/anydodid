@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DO new things, Think NEW"
-date: 2019-12-16 19:10:00 +09:00
+date: 2019-12-09 19:10:00 +09:00
 author: "Y"
 permalink: /do-new-things-think-new/
 image:
